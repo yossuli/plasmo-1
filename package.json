@@ -1,8 +1,8 @@
 {
-  "name": "toyonetaceplus",
-  "displayName": "Toyonetaceplus",
+  "name": "plasmo1",
+  "displayName": "plasmo1",
   "version": "0.0.1",
-  "description": " toyonetaceの小テストをchatGPTに聞きやすい形式で出力",
+  "description": "plasmoの練習",
   "author": "yossuli",
   "scripts": {
     "notios": "notios dev",
